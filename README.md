@@ -4,7 +4,7 @@ FactorioPlus
 
 Adding more gameplay to Factorio
 
-<br>My idea is to add different challanges to Factorio for an example having no ore generation in-game?</br>
+My idea is to add different challanges to Factorio for an example having no ore generation in-game?
 <br>Well you could say wait no ore generation, then how can we make items?</br>
 <br>Awnser is easy a generator that creates a small amount of ores for you to use to create your items.</br>
 
