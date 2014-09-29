@@ -16,8 +16,10 @@ Changelog:
 
 <ul>
   <li>0.0.1 - Iron generation has been added</li>
-  <li>0.0.2 - Copper generation - Working in progress</li>
+  <li>0.0.2 - Copper generation - has been added</li>
   <li>0.0.3 - Coal generation - Working in progress</li>
+  <li>0.0.4 - Stone generation - Working in progress</li>
+  <li>0.0.5 - Balancing - Working in progress</li>
 </ul>
 
 ========
