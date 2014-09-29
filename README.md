@@ -27,5 +27,5 @@ Credits:
 ========
 <ul>
   <li><b>FreeER</b> from Factorio Fourms for helping me learn how to mod factorio.</li>
-  <li><b>Ludsoe</b> for creating MoLogicCore and letting me use it in my mod.</li>
+  <li><b>Ludsoe</b> for creating MoLogicCore and letting me use it in my mod and helping me build my mod.</li>
 </ul>
